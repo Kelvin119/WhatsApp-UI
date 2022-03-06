@@ -1,0 +1,18 @@
+.cal111{
+    border-radius: 40px;
+}
+.cal121{
+    border-radius: 40px;
+    border-color: grey;
+}
+.vol1{
+    border-radius: 40px;
+    background-color: grey;
+}
+.gaf{
+    background-color: grey;
+}
+.sal{
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+}
